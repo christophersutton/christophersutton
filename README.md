@@ -1,12 +1,9 @@
 # Hi, hiring manager
 
-If you're here it's likely because you saw me in a stack of applications. If that's you, I'd like you to know two things:
-1. The activity shown here is a just a fraction of my engineering output. Between Bitbucket, client account requirements, and nightly backups for personal projects, lots of my work never ends up tied to this account.
-2. Given #1 above, I've decided to build a prototype project here in public for you. Check out [Resume Ralph](https://github.com/christophersutton/resume-ralph) - it's probably the reason my resume got to you in the first place. 
+If you're here it's likely because you saw me in a stack of applications. If that's you, just want to make clear that the activity shown here is a just a fraction of my engineering output. Between Bitbucket, client account requirements, and nightly backups for personal projects, lots of my work never ends up tied to this account.
 
 ## About me
-
-I'm a former product manager and founder turned full stack engineer. 15 years industry experience building 
+I'm a former product manager and founder turned full stack engineer. 15 years industry experience building software products people love.
 
 - 💻 Full stack & product focused engineer 
 - ⚙️ Fluent in modern `.js` and `.ts` environments like React, NextJS, & Node
