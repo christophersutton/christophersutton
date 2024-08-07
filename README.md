@@ -1,5 +1,5 @@
-## About Chris
-I'm a former product manager and founder turned full stack engineer. 15 years experience building software products people love.
+## Product and Engineering Leader
+I'm a former product manager and founder turned full stack engineer with 15 years experience building software products people love.
 
 - 💻 Full stack & product focused engineer 
 - ⚙️ Fluent in modern `.js` and `.ts` environments like React, NextJS, & Node
