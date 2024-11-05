@@ -1,4 +1,5 @@
-Product & Engineering Leader building great products and high-performing teams at the intersection of engineering, design, and business strategy. With 15+ years of experience across startups and enterprises, I deliver software that users love and businesses bank on.
+# Product & Engineering Leader 
+Building great products and high-performing teams at the intersection of engineering, design, and business strategy. With 15+ years of experience across startups and enterprises, I deliver software that users love and businesses bank on.
 
 🛠️ Technical DNA
 - **Full-Stack Engineering:** Proven ability to design and deliver across the stack—from crafting intuitive user interfaces and high-performance backends to managing databases and DevOps pipelines.
